@@ -1,2 +1,2 @@
-# asset_price_predictor
-An attempt to predict asset prices 
+# Asset Price Predictor
+An attempt to predict asset prices using python, machine learning and some technical indicators. 
