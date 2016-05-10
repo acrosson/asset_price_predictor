@@ -15,3 +15,6 @@ def get_data(symbols, start_date, end_date):
         df = df.join(df_temp)
 
     return df
+
+def get_data_from_file(filename):
+    return pd.read_pickle(filename)
